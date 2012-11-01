@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlogPostExample/AppDelegate.cs">
+    <Files>
+      <File FileName="BlogPostExample/AppDelegate.cs" Line="119" Column="1" />
+      <File FileName="BlogPostExample/Main.cs" Line="12" Column="54" />
+      <File FileName="BlogPostExample/Model/SimpleModel.cs" Line="13" Column="10" />
+      <File FileName="BlogPostExample/Model/ComplexModel.cs" Line="11" Column="4" />
+      <File FileName="BlogPostExample/FileHelper.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jamesdarbyshire/Projects/BlogPostExample/BlogPostExample/AppDelegate.cs" line="117" />
+      <Breakpoint file="/Users/jamesdarbyshire/Projects/BlogPostExample/BlogPostExample/AppDelegate.cs" line="110" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
